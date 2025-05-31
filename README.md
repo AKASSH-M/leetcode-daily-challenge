@@ -34,6 +34,6 @@ All Java files follow this format:
 
 - 📧 Email: m.akassh07@gmail.com  
 - 💼 LinkedIn: [Akassh M](https://www.linkedin.com/in/akassh-m/)  
-- 💻 LeetCode: [AKASSH-M](https://leetcode.com/AKASSH-M/)
+- 💻 LeetCode: [AKASSH-M](https://leetcode.com/AKASSH_M/)
 
 > 🚀 Stay consistent. One problem a day keeps the rust away!
