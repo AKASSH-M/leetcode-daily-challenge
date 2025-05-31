@@ -1,7 +1,7 @@
 # 🧠 Daily LeetCode Challenge – Java
 
 Welcome to my **Daily LeetCode Challenge** repository!  
-This repo contains my **daily Java solutions** to LeetCode problems — aimed at improving consistency, sharpening problem-solving skills, and tracking progress publicly.
+This repo contains my **daily Java solutions** (from 26 may 2025) to LeetCode problems — aimed at improving consistency, sharpening problem-solving skills, and tracking progress publicly.
 
 ## 📁 File Naming Convention
 

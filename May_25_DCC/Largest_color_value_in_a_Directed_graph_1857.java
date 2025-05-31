@@ -1,3 +1,5 @@
+package May_25_DCC;
+
 import java.util.*;
 
 public class Largest_color_value_in_a_Directed_graph_1857 {
